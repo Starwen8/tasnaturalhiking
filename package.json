@@ -2,7 +2,7 @@
   "name": "TASNaturalHiking",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "default": "index.html",
   "run comment": "npm run watch:sass   live-server",
   "scripts": {
     "start": "parcel index.html",

@@ -1,0 +1,55 @@
+.footer {
+  background-color: $color-grey-dark;
+  padding: 10rem 0;
+  font-size: $font-size-default;
+
+  &__logo-container {
+    text-align: center;
+    margin-bottom: 10rem;
+  }
+
+  &__text-container {
+    text-align: center;
+    margin-bottom: 10rem;
+  }
+
+  &__logo {
+    width: 10rem;
+    height: auto;
+  }
+
+  &__navigation {
+    border-top: 1px solid $color-primary;
+    padding-top: 2rem;
+  }
+
+  &__list {
+    list-style-type: none;
+    display: inline-block;
+    &:not(:last-child) {
+      margin-right: 2rem;
+    }
+  }
+
+  &__link {
+    &:link,
+    &:visited {
+      display: inline-block;
+      text-decoration: none;
+      color: $color-grey-light;
+      margin-left: 5rem;
+      text-align: center;
+    }
+
+    &:hover,
+    &:active {
+      color: $color-primary;
+    }
+  }
+
+  &__p {
+    border-top: 1px solid $color-primary;
+    padding-top: 2rem;
+    color: $color-white;
+  }
+}

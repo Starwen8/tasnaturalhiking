@@ -1,0 +1,34 @@
+{
+  "name": "TAS Natural Hiking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "run comment": "npm run watch:sass   live-server",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css",
+    "watch:sass": "nodemon -e scss -x \"npm run compile:sass\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Starwen8/tasnaturalhike.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Starwen8/tasnaturalhike/issues"
+  },
+  "homepage": "https://github.com/Starwen8/tasnaturalhike#readme",
+  "dependencies": {
+    "live-server": "^1.2.2",
+    "node-sass": "^7.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+
+
+}
+
+
+ 
+

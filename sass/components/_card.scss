@@ -57,15 +57,15 @@
     background-blend-mode: screen;
     clip-path: polygon(0 0, 100% 0, 100% 80%, 0% 100%);
     &--1 {
-      background-image: $color-primary-gradient, url(../../img/pp1.jpg);
+      background-image: $color-primary-gradient, url(../img/pp1.jpg);
     }
 
     &--2 {
-      background-image: $color-secondary-gradient, url(../../img/pp2.jpg);
+      background-image: $color-secondary-gradient, url(../img/pp2.jpg);
     }
 
     &--3 {
-      background-image: $color-tertiary-gradient, url(../../img/pp3.jpg);
+      background-image: $color-tertiary-gradient, url(../img/pp3.jpg);
     }
   }
 

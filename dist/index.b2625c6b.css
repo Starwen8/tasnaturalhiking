@@ -440,7 +440,7 @@ body {
 .story__img {
   height: 100%;
   transition: all .5s;
-  transform: scale(1.2);
+  transform: scale(1.5);
 }
 
 .story__caption {
@@ -463,7 +463,7 @@ body {
 
 .story:hover .story__img {
   filter: blur(3px) brightness(80%);
-  transform: scale(1);
+  transform: scale(1.2);
 }
 
 .header {

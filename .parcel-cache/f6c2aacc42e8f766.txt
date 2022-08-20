@@ -70,7 +70,7 @@
 139D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\type-fest\source\package-json.d.ts133052952554245077 0
 142D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\yargs\node_modules\yargs-parser\build133052952537249361 1
 132D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\is-binary-path\package.json133052952468166849 0
-96D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\dist133052986498065258 1
+96D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\dist133054668501803279 1
 154D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\simple-update-notifier\node_modules\semver\ranges133052952561062635 1
 119D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\agentkeepalive133052952548721702 1
 122D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\minipass-pipeline133052952537498685 1
@@ -89,7 +89,7 @@
 95D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\img133052128769960708 1
 144D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\svgo\plugins\cleanupEnableBackground.js133052952549180490 0
 131D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\sshpk\lib\formats\pkcs1.js133052952555627464 0
-102D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\index.html133052975271358738 0
+102D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\index.html133054654299945150 0
 137D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\unix-crypt-td-js\README.markdown133052952543715880 0
 112D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\@parcel133052952599158690 1
 124D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\unpipe\package.json133052952467867499 0
@@ -195,7 +195,7 @@
 133D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\cacache\lib\content\write.js133052952553410193 0
 114D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\json5\lib133052952555225193 1
 125D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\lodash\_lazyValue.js133052952571029959 0
-119D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\sass\components\_story.scss133043165157023227 0
+119D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\sass\components\_story.scss133054655945010853 0
 140D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\svgo\lib\svgo\css-select-adapter.js133052952556306294 0
 113D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\sass\_animations.scss133024157032280000 0
 116D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\live-server133052952578401928 1
@@ -1060,7 +1060,7 @@
 122D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\smart-buffer\docs133052952549090977 1
 135D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\nan\nan_callbacks_pre_12_inl.h133052952532835286 0
 115D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\har-schema133052952537319163 1
-119D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\dist\index.b2625c6b.css.map133052986495372452 0
+119D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\dist\index.b2625c6b.css.map133054668501281644 0
 123D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\inherits\README.md133052952539882559 0
 110D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\touch133052952538845087 1
 134D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\node_modules\node-gyp\test\test-install.js133052952562716166 0
@@ -10462,9 +10462,9 @@
 119D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\dist\index.23ac8a92.css.map133052958062643943 0
 115D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\dist\index.5b85d9b6.css133052958062614015 0
 119D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\dist\index.5b85d9b6.css.map133052958062643943 0
-115D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\dist\index.b2625c6b.css133052986495322592 0
+115D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\dist\index.b2625c6b.css133054668501251716 0
 115D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\dist\index.cb3ebe59.css133052986496449572 0
-107D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\dist\index.html133052986495292671 0
+107D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\dist\index.html133054668501803279 0
 116D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\dist\intro1.34ddc3d2.jpg133052958050985212 0
 116D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\dist\intro2.30a527f6.jpg133052958061078275 0
 116D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\dist\intro3.9588e359.jpg133052958047454651 0
@@ -10481,6 +10481,6 @@
 122D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\dist\Woman hiking.3e6fe7aa.mp4133052986498055283 0
 122D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\dist\Woman hiking.6f219616.mp4133052958047953318 0
 104D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\css\icon.css130443700060000000 0
-105D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\css\style.css133052986491671021 0
+105D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\css\style.css133054656146181339 0
 120D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\css\fonts\linea-basic-10.eot130443700060000000 0
 120D:\eLearning\Web\Sass\advanced-css-course-master\advanced-css-course-master\Natours\starter\css\fonts\linea-basic-10.svg130443700060000000 0
